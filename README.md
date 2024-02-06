@@ -5,7 +5,7 @@ A passionate full-stack developer from Spain, I'm on a journey to kickstart my c
 
 <h2>🚀 About Me:</h2>
  
-- Currently looking for a job.
+- Working with T-Systems.
 
 - Enthusiastic about constantly learning new languages and expanding my knowledge in the sector.
 
